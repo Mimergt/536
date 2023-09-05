@@ -1,0 +1,19 @@
+# Empty CSS file for your own CSS
+.datos{
+    
+}
+.datos .dataTables_length, .datos .dataTables_filter{
+    display: none;
+}
+tr.bg-primary.selector_orden {
+    color: #ffffff;
+}
+.selector_orden td {
+    padding: 15px;
+    font-size: 17px;
+    color: #ffffff;
+}
+
+.selector_orden {
+    border-bottom: solid 1px #212529;
+}
